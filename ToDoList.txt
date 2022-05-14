@@ -1,0 +1,4 @@
+Mow,High
+Eat,High
+Sleep,High
+Clean,Medium
